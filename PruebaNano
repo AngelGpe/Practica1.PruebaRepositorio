@@ -1,0 +1,20 @@
+Git es un software de control de versiones de otros programas, esto 
+funciona para el mantenimiento de
+programas con gran cantidad de lineas en su codigo fuente. Resulta util 
+por ejemplo para un estudiante
+cuando realiza un programa funcional y despues de cierta modificacion 
+falla, git permite al desarrollador
+del programa regresar a la version funcional, o antes si el asi lo 
+quisiera.
+Es por ello que muchas empresas de gran relevancia en el mundo hacen uso 
+de este software, como es el caso
+de Google, Facebook, Microsoft, Twitter, Linkedin, Netflix, Android y 
+Linux por mencionar algunos, pues les
+es de gran importancia tener un control preciso de sus versiones ya que 
+desarrollan software de miles y miles
+de lineas de codigo.
+Git es un programa escrito en C, Perl, Tcl, y Python, desarrollado por 
+Linus Torvalds(diseniador), Junio
+Hamano y Software Freedom Conservancy, es un software gratuito funcional 
+para bastantes plataformas y S.O.
+
